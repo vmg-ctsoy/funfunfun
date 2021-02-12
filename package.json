@@ -1,0 +1,19 @@
+{
+  "name": "@vmg-ctsoy/funfunfun",
+  "version": "1.0.0",
+  "description": "fun with pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmg-ctsoy/funfunfun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmg-ctsoy/funfunfun/issues"
+  },
+  "homepage": "https://github.com/vmg-ctsoy/funfunfun#readme"
+}
