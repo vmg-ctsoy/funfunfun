@@ -16,4 +16,7 @@
     "url": "https://github.com/vmg-ctsoy/funfunfun/issues"
   },
   "homepage": "https://github.com/vmg-ctsoy/funfunfun#readme"
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
